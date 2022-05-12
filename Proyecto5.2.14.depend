@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652394451 source:d:\programasc\proyecto5.x\proyecto5.2.x\proyecto5.2.14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
